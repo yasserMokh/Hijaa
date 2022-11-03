@@ -1,0 +1,1234 @@
+[
+    {
+        "id" : 1,
+        "name": "أَلِف",
+        "forms": [
+            {                
+                "form":"ا",
+                "formType":"isolated"
+            },
+            {
+                "form":"ا",
+                "formType":"initial"
+            },
+            {
+                "form":"ـا",
+                "formType":"medial"
+            },
+            {
+                "form":"ـا",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":1,
+                "face":"أَ",
+                "formation":" َ"
+            },
+            {
+                "id":2,
+                "face":"إِ",
+                "formation":" ِ"
+            },
+            {
+                "id":3,
+                "face":"أُ",
+                "formation":" ُ"
+            },
+            {
+                "id":4,
+                "face":"أْ",
+                "formation":" ْ"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name": "بَاء",
+        "forms": [
+            {                
+                "form":"ب",
+                "formType":"isolated"
+            },
+            {
+                "form":"بـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـبـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـب",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"بَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"بِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"بُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"بْ",
+                "formation":" ْ"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name": "تاء",
+        "forms": [
+            {                
+                "form":"ت",
+                "formType":"isolated"
+            },
+            {
+                "form":"تـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـتـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـت",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"تَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"تِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"تُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"تْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 4,
+        "name": "ثاء",
+        "forms": [
+            {                
+                "form":"ث",
+                "formType":"isolated"
+            },
+            {
+                "form":"ثـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـثـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـث",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"ثَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"ثِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"ثُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"ثْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 5,
+        "name": "جيم",
+        "forms": [
+            {                
+                "form":"ج",
+                "formType":"isolated"
+            },
+            {
+                "form":"جـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـجـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـج",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"جَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"جِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"جُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"جْ",
+                "formation":" ْ"
+            }
+        ]    
+    },
+    {
+        "id" : 6,
+        "name": "حاء",
+        "forms": [
+            {                
+                "form":"ح",
+                "formType":"isolated"
+            },
+            {
+                "form":"حـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـحـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـح",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"حَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"حِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"حُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"حْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 7,
+        "name": "خاء",
+        "forms": [
+            {                
+                "form":"خ",
+                "formType":"isolated"
+            },
+            {
+                "form":"خـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـخـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـخ",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"خَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"خِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"خُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"خْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 8,
+        "name": "دال",
+        "forms": [
+            {                
+                "form":"د",
+                "formType":"isolated"
+            },
+            {
+                "form":"د",
+                "formType":"initial"
+            },
+            {
+                "form":"ـد",
+                "formType":"medial"
+            },
+            {
+                "form":"ـد",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"دَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"دِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"دُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"دْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 9,
+        "name": "ذال",
+        "forms": [
+            {                
+                "form":"ذ",
+                "formType":"isolated"
+            },
+            {
+                "form":"ذ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـذ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـذ",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"ذَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"ذِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"ذُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"ذْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 10,
+        "name": "راء",
+        "forms": [
+            {                
+                "form":"ر",
+                "formType":"isolated"
+            },
+            {
+                "form":"ر",
+                "formType":"initial"
+            },
+            {
+                "form":"ـر",
+                "formType":"medial"
+            },
+            {
+                "form":"ـر",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"رَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"رِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"رُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"رْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 11,
+        "name": "زاي",
+        "forms": [
+            {                
+                "form":"ز",
+                "formType":"isolated"
+            },
+            {
+                "form":"ز",
+                "formType":"initial"
+            },
+            {
+                "form":"ـز",
+                "formType":"medial"
+            },
+            {
+                "form":"ـز",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"زَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"زِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"زُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"زْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 12,
+        "name": "سين",
+        "forms": [
+            {                
+                "form":"س",
+                "formType":"isolated"
+            },
+            {
+                "form":"سـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـسـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـس",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"سَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"سِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"سُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"سْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 13,
+        "name": "شين",
+        "forms": [
+            {                
+                "form":"ش",
+                "formType":"isolated"
+            },
+            {
+                "form":"شـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـشـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـش",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"شَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"شِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"شُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"شْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 14,
+        "name": "صاد",
+        "forms": [
+            {                
+                "form":"ص",
+                "formType":"isolated"
+            },
+            {
+                "form":"صـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـصـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـص",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"صَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"صِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"صُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"صْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 15,
+        "name": "ضاد",
+        "forms": [
+            {                
+                "form":"ض",
+                "formType":"isolated"
+            },
+            {
+                "form":"ضـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـضـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـض",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"ضَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"ضِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"ضُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"ضْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 16,
+        "name": "طاء",
+        "forms": [
+            {                
+                "form":"ط",
+                "formType":"isolated"
+            },
+            {
+                "form":"طـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـطـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـط",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"طَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"طِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"طُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"طْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 17,
+        "name": "ظاء",
+        "forms": [
+            {                
+                "form":"ظ",
+                "formType":"isolated"
+            },
+            {
+                "form":"ظـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـظـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـظ",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"ظَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"ظِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"ظُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"ظْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 18,
+        "name": "عين",
+        "forms": [
+            {                
+                "form":"ع",
+                "formType":"isolated"
+            },
+            {
+                "form":"عـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـعـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـع",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"عَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"عِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"عُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"عْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 19,
+        "name": "غين",
+        "forms": [
+            {                
+                "form":"غ",
+                "formType":"isolated"
+            },
+            {
+                "form":"غـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـغـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـغ",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"غَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"غِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"غُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"غْ",
+                "formation":" ْ"
+            }
+        ]       
+    },
+    {
+        "id" : 20,
+        "name": "فاء",
+        "forms": [
+            {                
+                "form":"ف",
+                "formType":"isolated"
+            },
+            {
+                "form":"فـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـفـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـف",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"فَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"فِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"فُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"فْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 21,
+        "name": "قاف",
+        "forms": [
+            {                
+                "form":"ق",
+                "formType":"isolated"
+            },
+            {
+                "form":"قـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـقـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـق",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"قَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"قِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"قُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"قْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 22,
+        "name": "كاف",
+        "forms": [
+            {                
+                "form":"ك",
+                "formType":"isolated"
+            },
+            {
+                "form":"كـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـكـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـك",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"كَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"كِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"كُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"كْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 23,
+        "name": "لام",
+        "forms": [
+            {                
+                "form":"ل",
+                "formType":"isolated"
+            },
+            {
+                "form":"لـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـلـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـل",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"لَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"لِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"لُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"لْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 24,
+        "name": "ميم",
+        "forms": [
+            {                
+                "form":"م",
+                "formType":"isolated"
+            },
+            {
+                "form":"مـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـمـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـم",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"مَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"مِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"مُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"مْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 25,
+        "name": "نون",
+        "forms": [
+            {                
+                "form":"ن",
+                "formType":"isolated"
+            },
+            {
+                "form":"نـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـنـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـن",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"نَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"نِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"نُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"نْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 26,
+        "name": "هاء",
+        "forms": [
+            {                
+                "form":"هـ",
+                "formType":"isolated"
+            },
+            {
+                "form":"هـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـهـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـه",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"هـَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"هـِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"هـُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"هـْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 27,
+        "name": "واو",
+        "forms": [
+            {                
+                "form":"و",
+                "formType":"isolated"
+            },
+            {
+                "form":"و",
+                "formType":"initial"
+            },
+            {
+                "form":"ـو",
+                "formType":"medial"
+            },
+            {
+                "form":"ـو",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"وَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"وِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"وُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"وْ",
+                "formation":" ْ"
+            }
+        ]        
+    },
+    {
+        "id" : 28,
+        "name": "ياء",
+        "forms": [
+            {                
+                "form":"ي",
+                "formType":"isolated"
+            },
+            {
+                "form":"يـ",
+                "formType":"initial"
+            },
+            {
+                "form":"ـيـ",
+                "formType":"medial"
+            },
+            {
+                "form":"ـي",
+                "formType":"final"
+            }
+        ],
+        "sounds":[
+            {
+                "id":5,
+                "face":"يَ",
+                "formation":" َ"
+            },
+            {
+                "id":6,
+                "face":"يِ",
+                "formation":" ِ"
+            },
+            {
+                "id":7,
+                "face":"يُ",
+                "formation":" ُ"
+            },
+            {
+                "id":8,
+                "face":"يْ",
+                "formation":" ْ"
+            }
+        ]        
+    }
+]
