@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MenuComponent } from './components/menu.component';
-
+import { AlphabetService } from './services/alphabet.service';
 
 
 @NgModule({
@@ -13,6 +13,9 @@ import { MenuComponent } from './components/menu.component';
   ],
   exports: [
     MenuComponent
+  ],
+  providers:[
+    AlphabetService
   ]
 })
 export class CoreModule { }

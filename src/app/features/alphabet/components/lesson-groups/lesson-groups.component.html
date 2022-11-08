@@ -1,0 +1,55 @@
+<section class="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="portfolio-flters">
+                    <li *ngFor="let group of lessonGroups" [class.filter-active]="group.id===selectedGroupId">
+                        <a (click)="onGroupTitleClick(group.id)">{{group.name}}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+            <div *ngFor="let group of lessonGroups" [hidden]="group.id!==selectedGroupId">
+                <div class=" services section-bg">
+                    <div *ngFor="let lesson of group.lessons" class="col-lg-4 col-md-6" (click)="onLessonClick(lesson)">
+                        <div class="icon-box">
+                            <div class="icon">
+                                <i class="bi {{lesson.icon}}" style="color: #ff689b;"></i>
+                            </div>
+                            <h4 class="title"><a>{{lesson.title}}</a></h4>
+
+                            <p class="description" *ngIf="lesson.description" >{{lesson.description}}</p>
+                            <div *ngFor="let letter of lesson.letters" class="square-list">
+                                <div>
+                                    <i *ngFor="let form of letter.forms">{{form.form}}</i>
+                                </div>
+                                <br/>
+                                <div>
+                                    <i *ngFor="let sound of letter.sounds">{{sound.form}}</i>
+                                </div>
+                            </div>
+                            <!-- <div class="social" [hidden]="lesson.id!==selectedLessonId">
+                                <hj-letter-vowels-bar [letterSounds]="lesson.letters[0].sounds" ></hj-letter-vowels-bar>
+                                <a><i class="bi bi-twitter"></i></a>
+                                 <a><i class="bi bi-facebook"></i></a>
+                                 <a><i class="bi bi-instagram"></i></a>
+                                 <a><i class="bi bi-linkedin"></i></a>
+                               </div> -->
+
+                        </div>
+                        <!--  <div class="icon-box">
+                          <div class="icon">{{lesson.name}}</div>
+                          <h4 class="title"><a>{{lesson.name}}</a></h4>
+                          <p class="description"></p>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>

@@ -1,1 +1,59 @@
 /* You can add global styles to this file, and also import other style files */
+.social {
+  position: absolute;
+  left: 0;
+  bottom: 30px;
+  right: 0;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+}
+
+.social a {
+  transition: color 0.3s;
+  color: #0f394c;
+  margin: 0 3px;
+  border-radius: 50px;
+  width: 36px;
+  height: 36px;
+  background: rgba(73, 181, 231, 0.8);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: ease-in-out 0.3s;
+  color: #fff;
+}
+
+.social a:hover {
+  background: #76c7ed;
+}
+
+.social i {
+  font-size: 18px;
+  line-height: 0;
+}
+
+.social {
+  opacity: 1;
+  bottom: 15px;
+}
+
+.square-list {
+  text-align: center;
+}
+.square-list i {
+  font-size: 18px;
+  display: inline-block;
+  background: #49b5e7;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 4px;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+  align-items: center;
+  justify-content: center;
+}

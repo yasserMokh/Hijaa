@@ -1,0 +1,330 @@
+[
+    {
+        "id": 1,
+        "name": "Group 1",
+        "lessons": [
+            {
+                "id":1,
+                "name": "حرف الألف",
+                "title": "ألف (أ)",
+                "icon":"bi-cash-stack",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 1,
+                        "name": "أَلِف",
+                        "form":"أ",
+                        "forms": [
+                            {                
+                                "form":"أ",
+                                "formTypes":["isolated", "initial"]
+                            },
+                            {
+                                "form":"ـأ",
+                                "formTypes":["medial", "final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":1,
+                                "form":"أَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":2,
+                                "form":"إِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":3,
+                                "form":"أُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":4,
+                                "form":"أْ",
+                                "vowel":" ْ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "name": "حرف الميم",
+                "title": "ميم (م)",
+                "icon":"bi-calendar4-week",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 24,
+                        "name": "ميم",
+                        "form":"م",
+                        "forms": [
+                            {                
+                                "form":"م",
+                                "formTypes":["isolated"]
+                            },
+                            {
+                                "form":"مـ",
+                                "formTypes":["initial"]
+                            },
+                            {
+                                "form":"ـمـ",
+                                "formTypes":["medial"]
+                            },
+                            {
+                                "form":"ـم",
+                                "formTypes":["final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":5,
+                                "form":"مَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":6,
+                                "form":"مِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":7,
+                                "form":"مُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":8,
+                                "form":"مْ",
+                                "vowel":" ْ"
+                            }
+                        ]        
+                    }
+                ]
+            },
+            {
+                "id":3,
+                "name": "حرف الباء",
+                "title": "باء (ب)",
+                "icon":"bi-chat-text",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 2,
+                        "name": "بَاء",
+                        "form":"ب",
+                        "forms": [
+                            {                
+                                "form":"ب",
+                                "formTypes":["isolated"]
+                            },
+                            {
+                                "form":"بـ",
+                                "formTypes":["initial"]
+                            },
+                            {
+                                "form":"ـبـ",
+                                "formTypes":["medial"]
+                            },
+                            {
+                                "form":"ـب",
+                                "formTypes":["final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":5,
+                                "form":"بَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":6,
+                                "form":"بِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":7,
+                                "form":"بُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":8,
+                                "form":"بْ",
+                                "vowel":" ْ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Group 2",
+        "lessons": [
+            {
+                "id":4,
+                "name": "حرف الفاء",
+                "title": "فاء (ف)",
+                "icon":"bi-credit-card-2-front",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 20,
+                        "name": "فاء",
+                        "form":"ف",
+                        "forms": [
+                            {                
+                                "form":"ف",
+                                "formTypes":["isolated"]
+                            },
+                            {
+                                "form":"فـ",
+                                "formTypse":["initial"]
+                            },
+                            {
+                                "form":"ـفـ",
+                                "formTypes":["medial"]
+                            },
+                            {
+                                "form":"ـف",
+                                "formTypes":["final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":5,
+                                "form":"فَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":6,
+                                "form":"فِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":7,
+                                "form":"فُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":8,
+                                "form":"فْ",
+                                "vowel":" ْ"
+                            }
+                        ]        
+                    }
+                ]
+            },
+            {
+                "id":5,
+                "name": "حرف النون",
+                "title": "نون (ن)",
+                "icon":"bi-globe",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 25,
+                        "name": "نون",
+                        "form":"ن",
+                        "forms": [
+                            {                
+                                "form":"ن",
+                                "formTypes":["isolated"]
+                            },
+                            {
+                                "form":"نـ",
+                                "formTypes":["initial"]
+                            },
+                            {
+                                "form":"ـنـ",
+                                "formTypes":["medial"]
+                            },
+                            {
+                                "form":"ـن",
+                                "formTypes":["final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":5,
+                                "form":"نَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":6,
+                                "form":"نِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":7,
+                                "form":"نُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":8,
+                                "form":"نْ",
+                                "vowel":" ْ"
+                            }
+                        ]        
+                    }
+                ]
+            },
+            {
+                "id":6,
+                "name": "حرف اللام",
+                "title": "لام (ل)",
+                "icon":"bi-clock",
+                "description":"",
+                "letters": [
+                    {
+                        "id" : 23,
+                        "name": "لام",
+                        "form":"ل",
+                        "forms": [
+                            {                
+                                "form":"ل",
+                                "formTypes":["isolated"]
+                            },
+                            {
+                                "form":"لـ",
+                                "formTypes":["initial"]
+                            },
+                            {
+                                "form":"ـلـ",
+                                "formTypes":["medial"]
+                            },
+                            {
+                                "form":"ـل",
+                                "formTypes":["final"]
+                            }
+                        ],
+                        "sounds":[
+                            {
+                                "id":5,
+                                "form":"لَ",
+                                "vowel":" َ"
+                            },
+                            {
+                                "id":6,
+                                "form":"لِ",
+                                "vowel":" ِ"
+                            },
+                            {
+                                "id":7,
+                                "form":"لُ",
+                                "vowel":" ُ"
+                            },
+                            {
+                                "id":8,
+                                "form":"لْ",
+                                "vowel":" ْ"
+                            }
+                        ]        
+                    }
+                ]
+            }
+        ]
+    }
+]

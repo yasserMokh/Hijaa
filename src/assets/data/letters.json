@@ -2,50 +2,52 @@
     {
         "id" : 1,
         "name": "أَلِف",
+        "form":"أ",
         "forms": [
             {                
-                "form":"ا",
+                "form":"أ",
                 "formType":"isolated"
             },
             {
-                "form":"ا",
+                "form":"أ",
                 "formType":"initial"
             },
             {
-                "form":"ـا",
+                "form":"ـأ",
                 "formType":"medial"
             },
             {
-                "form":"ـا",
+                "form":"ـأ",
                 "formType":"final"
             }
         ],
         "sounds":[
             {
                 "id":1,
-                "face":"أَ",
-                "formation":" َ"
+                "form":"أَ",
+                "vowel":" َ"
             },
             {
                 "id":2,
-                "face":"إِ",
-                "formation":" ِ"
+                "form":"إِ",
+                "vowel":" ِ"
             },
             {
                 "id":3,
-                "face":"أُ",
-                "formation":" ُ"
+                "form":"أُ",
+                "vowel":" ُ"
             },
             {
                 "id":4,
-                "face":"أْ",
-                "formation":" ْ"
+                "form":"أْ",
+                "vowel":" ْ"
             }
         ]
     },
     {
         "id" : 2,
         "name": "بَاء",
+        "form":"ب",
         "forms": [
             {                
                 "form":"ب",
@@ -67,29 +69,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"بَ",
-                "formation":" َ"
+                "form":"بَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"بِ",
-                "formation":" ِ"
+                "form":"بِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"بُ",
-                "formation":" ُ"
+                "form":"بُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"بْ",
-                "formation":" ْ"
+                "form":"بْ",
+                "vowel":" ْ"
             }
         ]
     },
     {
         "id" : 3,
         "name": "تاء",
+        "form":"ت",
         "forms": [
             {                
                 "form":"ت",
@@ -111,29 +114,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"تَ",
-                "formation":" َ"
+                "form":"تَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"تِ",
-                "formation":" ِ"
+                "form":"تِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"تُ",
-                "formation":" ُ"
+                "form":"تُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"تْ",
-                "formation":" ْ"
+                "form":"تْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 4,
         "name": "ثاء",
+        "form":"ث",
         "forms": [
             {                
                 "form":"ث",
@@ -155,29 +159,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"ثَ",
-                "formation":" َ"
+                "form":"ثَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"ثِ",
-                "formation":" ِ"
+                "form":"ثِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"ثُ",
-                "formation":" ُ"
+                "form":"ثُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"ثْ",
-                "formation":" ْ"
+                "form":"ثْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 5,
         "name": "جيم",
+        "form":"ج",
         "forms": [
             {                
                 "form":"ج",
@@ -199,29 +204,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"جَ",
-                "formation":" َ"
+                "form":"جَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"جِ",
-                "formation":" ِ"
+                "form":"جِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"جُ",
-                "formation":" ُ"
+                "form":"جُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"جْ",
-                "formation":" ْ"
+                "form":"جْ",
+                "vowel":" ْ"
             }
         ]    
     },
     {
         "id" : 6,
         "name": "حاء",
+        "form":"ح",
         "forms": [
             {                
                 "form":"ح",
@@ -243,29 +249,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"حَ",
-                "formation":" َ"
+                "form":"حَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"حِ",
-                "formation":" ِ"
+                "form":"حِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"حُ",
-                "formation":" ُ"
+                "form":"حُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"حْ",
-                "formation":" ْ"
+                "form":"حْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 7,
         "name": "خاء",
+        "form":"خ",
         "forms": [
             {                
                 "form":"خ",
@@ -287,29 +294,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"خَ",
-                "formation":" َ"
+                "form":"خَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"خِ",
-                "formation":" ِ"
+                "form":"خِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"خُ",
-                "formation":" ُ"
+                "form":"خُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"خْ",
-                "formation":" ْ"
+                "form":"خْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 8,
         "name": "دال",
+        "form":"د",
         "forms": [
             {                
                 "form":"د",
@@ -331,29 +339,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"دَ",
-                "formation":" َ"
+                "form":"دَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"دِ",
-                "formation":" ِ"
+                "form":"دِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"دُ",
-                "formation":" ُ"
+                "form":"دُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"دْ",
-                "formation":" ْ"
+                "form":"دْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 9,
         "name": "ذال",
+        "form":"ذ",
         "forms": [
             {                
                 "form":"ذ",
@@ -375,29 +384,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"ذَ",
-                "formation":" َ"
+                "form":"ذَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"ذِ",
-                "formation":" ِ"
+                "form":"ذِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"ذُ",
-                "formation":" ُ"
+                "form":"ذُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"ذْ",
-                "formation":" ْ"
+                "form":"ذْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 10,
         "name": "راء",
+        "form":"ر",
         "forms": [
             {                
                 "form":"ر",
@@ -419,29 +429,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"رَ",
-                "formation":" َ"
+                "form":"رَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"رِ",
-                "formation":" ِ"
+                "form":"رِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"رُ",
-                "formation":" ُ"
+                "form":"رُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"رْ",
-                "formation":" ْ"
+                "form":"رْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 11,
         "name": "زاي",
+        "form":"ز",
         "forms": [
             {                
                 "form":"ز",
@@ -463,29 +474,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"زَ",
-                "formation":" َ"
+                "form":"زَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"زِ",
-                "formation":" ِ"
+                "form":"زِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"زُ",
-                "formation":" ُ"
+                "form":"زُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"زْ",
-                "formation":" ْ"
+                "form":"زْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 12,
         "name": "سين",
+        "form":"س",
         "forms": [
             {                
                 "form":"س",
@@ -507,29 +519,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"سَ",
-                "formation":" َ"
+                "form":"سَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"سِ",
-                "formation":" ِ"
+                "form":"سِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"سُ",
-                "formation":" ُ"
+                "form":"سُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"سْ",
-                "formation":" ْ"
+                "form":"سْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 13,
         "name": "شين",
+        "form":"ش",
         "forms": [
             {                
                 "form":"ش",
@@ -551,29 +564,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"شَ",
-                "formation":" َ"
+                "form":"شَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"شِ",
-                "formation":" ِ"
+                "form":"شِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"شُ",
-                "formation":" ُ"
+                "form":"شُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"شْ",
-                "formation":" ْ"
+                "form":"شْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 14,
         "name": "صاد",
+        "form":"ص",
         "forms": [
             {                
                 "form":"ص",
@@ -595,29 +609,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"صَ",
-                "formation":" َ"
+                "form":"صَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"صِ",
-                "formation":" ِ"
+                "form":"صِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"صُ",
-                "formation":" ُ"
+                "form":"صُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"صْ",
-                "formation":" ْ"
+                "form":"صْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 15,
         "name": "ضاد",
+        "form":"ض",
         "forms": [
             {                
                 "form":"ض",
@@ -639,29 +654,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"ضَ",
-                "formation":" َ"
+                "form":"ضَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"ضِ",
-                "formation":" ِ"
+                "form":"ضِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"ضُ",
-                "formation":" ُ"
+                "form":"ضُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"ضْ",
-                "formation":" ْ"
+                "form":"ضْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 16,
         "name": "طاء",
+        "form":"ط",
         "forms": [
             {                
                 "form":"ط",
@@ -683,29 +699,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"طَ",
-                "formation":" َ"
+                "form":"طَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"طِ",
-                "formation":" ِ"
+                "form":"طِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"طُ",
-                "formation":" ُ"
+                "form":"طُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"طْ",
-                "formation":" ْ"
+                "form":"طْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 17,
         "name": "ظاء",
+        "form":"ظ",
         "forms": [
             {                
                 "form":"ظ",
@@ -727,29 +744,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"ظَ",
-                "formation":" َ"
+                "form":"ظَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"ظِ",
-                "formation":" ِ"
+                "form":"ظِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"ظُ",
-                "formation":" ُ"
+                "form":"ظُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"ظْ",
-                "formation":" ْ"
+                "form":"ظْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 18,
         "name": "عين",
+        "form":"ع",
         "forms": [
             {                
                 "form":"ع",
@@ -771,29 +789,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"عَ",
-                "formation":" َ"
+                "form":"عَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"عِ",
-                "formation":" ِ"
+                "form":"عِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"عُ",
-                "formation":" ُ"
+                "form":"عُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"عْ",
-                "formation":" ْ"
+                "form":"عْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 19,
         "name": "غين",
+        "form":"غ",
         "forms": [
             {                
                 "form":"غ",
@@ -815,29 +834,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"غَ",
-                "formation":" َ"
+                "form":"غَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"غِ",
-                "formation":" ِ"
+                "form":"غِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"غُ",
-                "formation":" ُ"
+                "form":"غُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"غْ",
-                "formation":" ْ"
+                "form":"غْ",
+                "vowel":" ْ"
             }
         ]       
     },
     {
         "id" : 20,
         "name": "فاء",
+        "form":"ف",
         "forms": [
             {                
                 "form":"ف",
@@ -859,29 +879,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"فَ",
-                "formation":" َ"
+                "form":"فَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"فِ",
-                "formation":" ِ"
+                "form":"فِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"فُ",
-                "formation":" ُ"
+                "form":"فُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"فْ",
-                "formation":" ْ"
+                "form":"فْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 21,
         "name": "قاف",
+        "form":"ق",
         "forms": [
             {                
                 "form":"ق",
@@ -903,29 +924,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"قَ",
-                "formation":" َ"
+                "form":"قَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"قِ",
-                "formation":" ِ"
+                "form":"قِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"قُ",
-                "formation":" ُ"
+                "form":"قُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"قْ",
-                "formation":" ْ"
+                "form":"قْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 22,
         "name": "كاف",
+        "form":"ك",
         "forms": [
             {                
                 "form":"ك",
@@ -947,29 +969,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"كَ",
-                "formation":" َ"
+                "form":"كَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"كِ",
-                "formation":" ِ"
+                "form":"كِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"كُ",
-                "formation":" ُ"
+                "form":"كُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"كْ",
-                "formation":" ْ"
+                "form":"كْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 23,
         "name": "لام",
+        "form":"ل",
         "forms": [
             {                
                 "form":"ل",
@@ -991,29 +1014,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"لَ",
-                "formation":" َ"
+                "form":"لَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"لِ",
-                "formation":" ِ"
+                "form":"لِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"لُ",
-                "formation":" ُ"
+                "form":"لُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"لْ",
-                "formation":" ْ"
+                "form":"لْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 24,
         "name": "ميم",
+        "form":"م",
         "forms": [
             {                
                 "form":"م",
@@ -1035,29 +1059,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"مَ",
-                "formation":" َ"
+                "form":"مَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"مِ",
-                "formation":" ِ"
+                "form":"مِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"مُ",
-                "formation":" ُ"
+                "form":"مُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"مْ",
-                "formation":" ْ"
+                "form":"مْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 25,
         "name": "نون",
+        "form":"ن",
         "forms": [
             {                
                 "form":"ن",
@@ -1079,29 +1104,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"نَ",
-                "formation":" َ"
+                "form":"نَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"نِ",
-                "formation":" ِ"
+                "form":"نِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"نُ",
-                "formation":" ُ"
+                "form":"نُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"نْ",
-                "formation":" ْ"
+                "form":"نْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 26,
         "name": "هاء",
+        "form":"هـ",
         "forms": [
             {                
                 "form":"هـ",
@@ -1123,29 +1149,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"هـَ",
-                "formation":" َ"
+                "form":"هـَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"هـِ",
-                "formation":" ِ"
+                "form":"هـِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"هـُ",
-                "formation":" ُ"
+                "form":"هـُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"هـْ",
-                "formation":" ْ"
+                "form":"هـْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 27,
         "name": "واو",
+        "form":"و",
         "forms": [
             {                
                 "form":"و",
@@ -1167,29 +1194,30 @@
         "sounds":[
             {
                 "id":5,
-                "face":"وَ",
-                "formation":" َ"
+                "form":"وَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"وِ",
-                "formation":" ِ"
+                "form":"وِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"وُ",
-                "formation":" ُ"
+                "form":"وُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"وْ",
-                "formation":" ْ"
+                "form":"وْ",
+                "vowel":" ْ"
             }
         ]        
     },
     {
         "id" : 28,
         "name": "ياء",
+        "form":"ي",
         "forms": [
             {                
                 "form":"ي",
@@ -1211,23 +1239,23 @@
         "sounds":[
             {
                 "id":5,
-                "face":"يَ",
-                "formation":" َ"
+                "form":"يَ",
+                "vowel":" َ"
             },
             {
                 "id":6,
-                "face":"يِ",
-                "formation":" ِ"
+                "form":"يِ",
+                "vowel":" ِ"
             },
             {
                 "id":7,
-                "face":"يُ",
-                "formation":" ُ"
+                "form":"يُ",
+                "vowel":" ُ"
             },
             {
                 "id":8,
-                "face":"يْ",
-                "formation":" ْ"
+                "form":"يْ",
+                "vowel":" ْ"
             }
         ]        
     }

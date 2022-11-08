@@ -2,12 +2,14 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { AlphabetRoutingModule } from './alphabet-routing.module';
-import { LettersListComponent } from './components/letters-list.component';
+import { LessonGroupsComponent } from './components/lesson-groups/lesson-groups.component';
+import { LetterVowelsBarComponent } from './components/letter-vowels-bar/letter-vowels-bar.component';
 
 
 @NgModule({
   declarations: [
-    LettersListComponent
+    LessonGroupsComponent,
+    LetterVowelsBarComponent
   ],
   imports: [
     CommonModule,
